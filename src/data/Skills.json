@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "technicalSkills": {
+      "languagesnFrameworks": "Javascript, Typescript, ReactJs, NextJs, Tailwinds, ExpressJs, NodeJs",
+      "uiLibrary": "Shadcn, Framer motion",
+      "testingLibrary": "jest, cypress",
+      "database": "mongoDB, SQLServer, Firebase",
+      "technologies": "Git, GitHub, Visual Studio Dot Net, Vs Code, SEO, Vercel, OOPs Concept, Context-API, Rest-API"
+    }
+  }
+]

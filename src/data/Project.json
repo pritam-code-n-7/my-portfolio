@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Shopping-esy App",
+    "image": "/assets/shopping.png",
+    "compressedImage": "/assets/shopping.webp",
+    "alt":"projectimg",
+    "category": "E-commerce SPA",
+    "gitHub": "https://github.com/pritam-code-n-7/shopping-cart-assessment",
+    "liveSite": "https://shopping-esy.vercel.app/",
+    "techStack": "Vite, ReactJs-18, TailwindCSS (media query),Typecript, Vercel, Framer motion, Jest(unit testing)",
+    "conclusion": "Implemented global state with Context API, persisted cart with local storage, and added search, filtering, sorting by category, price, popularity, and rating."
+  },
+  {
+    "id": 2,
+    "name": "Strong Minded App",
+    "image": "/assets/strong-minded.png",
+    "compressedImage": "/assets/strong-minded.webp",
+    "alt":"projectimg",
+    "category": "Course enrollment App",
+    "gitHub": "https://github.com/pritam-code-n-7/frontend-hire-landing-page",
+    "liveSite": "https://course-enrollment-app-strongminded.vercel.app/",
+    "techStack": "Vite, React Js-18, TailwindCSS, Vercel, React chat-bot",
+    "conclusion": "Integrated a user-friendly chat bot, updated routing with createBrowserRouter, routerProvider, Outlet, Link, useParams, and NavLink for nested routes."
+  },
+  {
+    "id": 3,
+    "name": "N-MAB Penalty Calculator",
+    "image": "/assets/calculator.png",
+    "compressedImage": "/assets/calculator.webp",
+    "alt":"projectimg",
+    "category": "Calculator App",
+    "gitHub": "https://github.com/pritam-code-n-7/Bank-N-MAB-Penalty-calculator-next-app",
+    "liveSite": "https://bank-n-mab-penalty-calculator-next-app.vercel.app/",
+    "techStack": "Next Js-14, Typescript, TailwindCss, Firebase, Vercel",
+    "conclusion": "Scored 100 on PageSpeed Insights, integrated Firebase authentication, enforced login for calculator access, and implemented protected routes using Context API and useEffect."
+  }
+]

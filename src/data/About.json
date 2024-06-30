@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "aboutMe": {
+      "role": "Frontend Developer",
+      "brief": "Based on my experience as Immediate joiner • ExSDE-Intern @ Acxiom • IMCA @ TIU • A full time programmer who loves to travel • Learn in public 4x, I believe I could be a good fit."
+    },
+    "personalInformation": {
+      "Name": "Pritam Nandy",
+      "Email": "nandypritam54@gmail.com",
+      "Mobile": 7003641437,
+      "currentLocation": "Kolkata",
+      "Github": "https://github.com/pritam-code-n-7",
+      "LinkedIn": "https://linkedin.com/in/pritam-nandy-pn67",
+      "Vercel": "https://vercel.com/pritam-code-n-7",
+      "Resume":"https://drive.google.com/file/d/1Q4r0QeioV3FevCe0RNfDl4Fgu1Im9kij/view?usp=sharing"
+    }
+  }
+]

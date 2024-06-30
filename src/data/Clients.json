@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "client": "Senco Gold Ltd.",
+    "clientLocation": " - Kolkata, West Bengal",
+    "role": "Technical Consultant",
+    "work": "Code merging and testing",
+    "achievement": "Gain sound knowledge in frontend as well as backend development"
+  },
+  {
+    "id": 2,
+    "client": "Ananda Publishers Pvt. Ltd.",
+    "clientLocation": " - Kolkata, West Bengal",
+    "role": "Functional Consultant",
+    "work": "Legal entity setup",
+    "achievement": "Positive mentor feedback"
+  },
+  {
+    "id": 3,
+    "client": "Joyalukkas Jewellery Internationl",
+    "clientLocation": " - Dubai",
+    "role": "Technical Consultant",
+    "work": "Code integration",
+    "achievement": "Produced clean, efficient code"
+  }
+]

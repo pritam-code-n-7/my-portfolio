@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "careerSummary": {
+      "company": "http://www.acxiomconsulting.com/",
+      "workTime": "(March 2023 to October 2023)",
+      "location": "Noida",
+      "role": "Technical Consultant Trainee",
+      "techStack": "Dot Net framework, Typescript, C#, SQL Server"
+    }
+  }
+]
